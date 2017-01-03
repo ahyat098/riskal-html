@@ -167,7 +167,7 @@ function myFunction() {
 }
 </script>
 <iframe id="hidden_iframe" name="hidden_iframe" onload="if(submitted){);}" style="display: none;"></iframe>
-            <form action="https://docs.google.com/forms/d/1aHcEFAqx-IpAPnWhCknh_9MHdEj1CkbTaofxxxxxxxx/formResponse" id="ss-form" method="POST" onsubmit="fadeEffect.init('fade', 1);document.getElementById('fade').style.display = 'block'" target="hidden_iframe">
+            <form action="https://docs.google.com/forms/d/e/1FAIpQLSd3OxRBhlzGCXCicYWBWuIhNrU3RxhAx9-BBgS5EkmJSeDtvg/formResponse" id="ss-form" method="POST" onsubmit="fadeEffect.init('fade', 1);document.getElementById('fade').style.display = 'block'" target="hidden_iframe">
           <div class="styled-input">
                         <div class="styled-input-in">
                 <input type="text" aria-label="Name" name="entry.2005620554" value="" id="entry.2005620554" dir="auto" title="" required="required">
