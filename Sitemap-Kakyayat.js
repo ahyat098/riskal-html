@@ -44,7 +44,7 @@ function toc_sort_table(a) {
         }
     }
     skeleton += '</tbody>';
-    skeleton += '</table><div style="text-align:right;"><a href="http://astinquery.blogspot.com" target="_blank" style="font:normal bold 8px/normal Arial,Sans-Serif;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.2);" title="Astin query">ASTN</a></div>';
+    skeleton += '</table><div style="text-align:right;"><a href="http://Kakyayat.blogspot.com" target="_blank" style="font:normal bold 8px/normal Arial,Sans-Serif;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.2);" title="Astin query">ASTN</a></div>';
     g.innerHTML = skeleton;
 }
 
